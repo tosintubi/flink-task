@@ -1,0 +1,1 @@
+web: java -jar build/libs/flink-task-0.0.1-SNAPSHOT.jar
